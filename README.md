@@ -13,9 +13,6 @@
 	
 <picture></picture> **Sobre Mi**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
 
 - Me encanta la tecnologia!👨‍💻
 - Mi area es el desarrollo web💻
