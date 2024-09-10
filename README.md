@@ -11,16 +11,16 @@
 
 
 	
-<picture><img width="50" height="50" src="https://img.icons8.com/ios/50/standing-man.png" alt="standing-man"/>**Sobre Mi**</picture> 
+<picture></picture> **Sobre Mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
 - Me encanta la tecnologia!👨‍💻
-- Mi area es el desarrollo web✳️
+- Mi area es el desarrollo web💻
 - Soy estudiante de Desarrollo de software👨‍🎓
 - Actualmente me encuentro en busqueda de un trabajo, puedes ayudarme😊
-
-<br><br>
+<hr>
+<br>
 
