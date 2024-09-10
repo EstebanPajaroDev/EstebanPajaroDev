@@ -11,7 +11,7 @@
 
 
 	
-<picture><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/guest-male--v3.png" alt="guest-male--v3"/></picture> **Sobre Mi**
+<picture><img width="50" height="50" src="https://img.icons8.com/ios/50/standing-man.png" alt="standing-man"/>**Sobre Mi**</picture> 
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
