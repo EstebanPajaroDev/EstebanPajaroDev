@@ -36,13 +36,13 @@
 
 <p align="left">
 	
-<a href="https://www.linkedin.com/in/estebanpajaro-/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"
+<a href="https://www.linkedin.com/in/estebanpajaro-/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"
       alt="Esteban pajaro"/></a>
-<a href="https://www.facebook.com/EstebanPajar0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+<a href="https://www.facebook.com/EstebanPajar0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Esteban pajaro" width="48"  /></a>
-<a href="https://www.instagram.com/esteban_pajaro_/" target="blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram"
+<a href="https://www.instagram.com/esteban_pajaro_/" target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram"
       alt="EstebanPajaro"/></a>
-<a href="https://x.com/StebanPajaro" target="blank"><img align="center"  src="https://skillicons.dev/icons?i=twitter"
+<a href="https://x.com/StebanPajaro" target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=twitter"
       alt="EstebanPajaro"/></a>
 </p>
 
