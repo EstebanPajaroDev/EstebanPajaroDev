@@ -18,7 +18,7 @@
 - Me gusta la musica🎵
 - Mi area es el desarrollo web💻
 - Soy estudiante de Desarrollo de software👨‍🎓
-- Actualmente me encuentro en busqueda de un trabajo, puedes ayudarme😊
+- Actualmente me encuentro en busqueda de un trabajo ¿puedes ayudarme?😊
 <hr>
 <br>
 
