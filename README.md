@@ -30,32 +30,51 @@
 <br>
 
 <h2 align="left">Conecta conmigo:</h3>
+
+
 <p align="left">
   <a href="https://www.linkedin.com/in/estebanpajaro-/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Esteban pajaro" height="30" width="40" /></a>
+      alt="Esteban pajaro" height="30" width="50" /></a>
   <a href="https://www.facebook.com/EstebanPajar0/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Esteban pajaro" height="30" width="40" /></a>
+      alt="Esteban pajaro" height="30" width="50" /></a>
   <a href="https://www.instagram.com/esteban_pajaro_/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="EstebanPajaro" height="30" width="40" /></a>
+      alt="EstebanPajaro" height="30" width="50" /></a>
  <a href="https://x.com/StebanPajaro" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="EstebanPajaro" height="30" width="40" /></a>
+      alt="EstebanPajaro" height="30" width="50" /></a>
 </p>
 
 <br>
 
-<h2 align="left"> Languajes y Herramientas:</h3>
+<h2 align="left"> Languajes:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,nodejs" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,python,git,photoshop,sass" />
   </a>
 </p>
+
+
+<h2 align="left"> Herramientas:</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode" />
+  </a>
+</p>
+<p align="left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,bash,visualstudio" />
+  </a>
+</p>
+
+
+
