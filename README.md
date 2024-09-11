@@ -51,6 +51,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,nodejs,react,python,git,photoshop,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,nodejs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,python,git,photoshop,sass" />
   </a>
 </p>
