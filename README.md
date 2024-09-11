@@ -32,19 +32,17 @@
 <h2 align="left">Conecta conmigo:</h3>
 
 
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/estebanpajaro-/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Esteban pajaro" height="30" width="50" /></a>
-  <a href="https://www.facebook.com/EstebanPajar0/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Esteban pajaro" height="30" width="50" /></a>
-  <a href="https://www.instagram.com/esteban_pajaro_/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="EstebanPajaro" height="30" width="50" /></a>
- <a href="https://x.com/StebanPajaro" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="EstebanPajaro" height="30" width="50" /></a>
+	
+<a href="https://www.linkedin.com/in/estebanpajaro-/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"
+      alt="Esteban pajaro"/></a>
+<a href="https://www.facebook.com/EstebanPajar0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Esteban pajaro" width="48"  /></a>
+<a href="https://www.instagram.com/esteban_pajaro_/" target="blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram"
+      alt="EstebanPajaro"/></a>
+<a href="https://x.com/StebanPajaro" target="blank"><img align="center"  src="https://skillicons.dev/icons?i=twitter"
+      alt="EstebanPajaro"/></a>
 </p>
 
 <br>
@@ -58,7 +56,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,python,git,photoshop,sass" />
+    <img src="https://skillicons.dev/icons?i=react,mysql,python,git,sass" />
   </a>
 </p>
 
@@ -72,7 +70,7 @@
 </p>
 <p align="left>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,bash,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=notion,bash,visualstudio,photoshop" />
   </a>
 </p>
 
