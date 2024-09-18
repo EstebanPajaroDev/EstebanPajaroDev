@@ -1,5 +1,7 @@
 
 <h1 align="center"><b> Hola, Soy Esteban Pajaro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+![Imagen de fondo](canva.jpg)
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=yellow&size=35&center=true&vCenter=true&width=800&height=100&lines=Bienvenido..&hearts;+Welcome!+;I'm+Front-End+Developer;Soy+Desarrollador+Web;Software+development+student;Estudiante+de+Desarrrollo+de+software..<3"></a>
