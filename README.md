@@ -1,8 +1,10 @@
 
 ![Imagen de fondo](https://github.com/EstebanPajaroDev/EstebanPajaroDev/blob/Primary/Banner%20para%20Linkedin%20programador%20con%20fotografia%20azul%20y%20blanco.png)
+<hr>
 <!--  -->
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=F7F514&background=FFF8EF00&width=635&height=62&lines=Hola%2C+Bienvenido+a+mi+perfil;I'm+Front-End+Developer;Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=F7F514&background=FFF8EF00&width=650&height=62&lines=Hola%2C+Bienvenido+a+mi+perfil;I'm+Front-End+Developer;Software+Developer" alt="Typing SVG" /></a>
 </p>
 
 
@@ -11,7 +13,7 @@
 
 
 	
-<picture></picture> **Sobre Mi**
+ # Sobre Mi
 
 
 - Me encanta la tecnologia!👨‍💻
