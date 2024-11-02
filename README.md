@@ -18,6 +18,7 @@
 
 - Me encanta la tecnologia!👨‍💻
 - Colombiano de corazon❤️
+- Vivo en España
 - Me gusta la musica🎵
 - Mi area es el desarrollo web💻
 - Soy estudiante de Desarrollo de software👨‍🎓
