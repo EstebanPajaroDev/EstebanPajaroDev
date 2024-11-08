@@ -1,5 +1,7 @@
 
 ![Imagen de fondo](https://github.com/EstebanPajaroDev/EstebanPajaroDev/blob/Primary/Banner%20para%20Linkedin%20programador%20con%20fotografia%20azul%20y%20blanco.png)
+![Imagen de fondo](https://github.com/EstebanPajaroDev/EstebanPajaroDev/blob/Primary/Banner%20para%20Linkedin%20programador%20con%20fotografia.png)
+https://github.com/EstebanPajaroDev/EstebanPajaroDev/blob/Primary/Banner%20para%20Linkedin%20programador%20con%20fotografia.png
 <hr>
 <!--  -->
 
