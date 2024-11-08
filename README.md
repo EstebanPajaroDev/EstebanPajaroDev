@@ -1,7 +1,6 @@
 
 ![Imagen de fondo](https://github.com/EstebanPajaroDev/EstebanPajaroDev/blob/Primary/Banner%20para%20Linkedin%20programador%20con%20fotografia.png)
 
-<hr>
 <!--  -->
 
 <p align="center">
@@ -9,8 +8,6 @@
 <a href="https://git.io/typing-svg">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=5800F7&background=3900FF00&width=435&lines=Hola%2C+bienvenido!;Soy+desarrollador+web;Aqui+te+dejo+toda+mi+info...)](https://git.io/typing-svg)</a>
 </p>
 
-
-<br>
 
 
 
